@@ -1,2 +1,2 @@
-# Projeto_TerrorFlix
+# Projeto_Terrorflix
 Inicio do Projeto TerrorFlix
